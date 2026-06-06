@@ -1,84 +1,96 @@
-******<div align="center">
-
-🚀 **EHSAAS**
-
-AI ENTHUSIAST • WEB DEVELOPER • STUDENT DEVELOPER • FUTURE AI ENGINEER
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Web+Developer;Python+Developer;Machine+Learning+Learner;Building+Projects+Every+Day;Future+AI+Engineer" />
-<br>
-</div>
-
-⸻
-
-🧠 ABOUT ME
-
-* 🎓 HIGH SCHOOL GRADUATE
-* 📍 KUALA LUMPUR, MALAYSIA
-* 🤖 PASSIONATE ABOUT ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
-* 💻 LEARNING WEB DEVELOPMENT & SOFTWARE ENGINEERING
-* 🚀 BUILDING PROJECTS USING PYTHON, JAVA, JAVASCRIPT & AI TOOLS
-* 🎯 GOAL: BECOME AN AI ENGINEER & FREELANCE DEVELOPER
-
-⸻
-
-🌐 CONNECT WITH ME
-
-⸻
-
-💻 TECH STACK
-
-⸻
-
-🤖 AI, ML & DATA ANALYSIS
-
-⸻
-
-🏆 CERTIFICATIONS
-
-STANFORD ONLINE & DEEPLEARNING.AI
-
-✅ SUPERVISED MACHINE LEARNING: REGRESSION AND CLASSIFICATION
-
-👨‍🏫 INSTRUCTOR: ANDREW NG
-
-⸻
-
-🚀 FEATURED PROJECTS
-
-✈ AIRLINE RESERVATION SYSTEM
-
-PYTHON + MYSQL AIRLINE BOOKING PROJECT
-
-🍽 RESTAURANT WEBSITE
-
-MODERN RESPONSIVE RESTAURANT WEBSITE
-
-🏋 GYM BUSINESS WEBSITE
-
-PROFESSIONAL FITNESS BUSINESS WEBSITE
-
-🌐 PERSONAL PORTFOLIO
-
-https://pilotek79.github.io/Ehsaas-portfolio/
-
-⸻
-
-📊 GITHUB ANALYTICS
-
-⸻
-
-🏆 GITHUB TROPHIES
-
-⸻
-
-📈 CONTRIBUTION GRAPH
-
-⸻
-
 <div align="center">
 
-🌟 BUILDING THE FUTURE WITH AI & CODE 🌟
+# Hi 👋, I'm Ehsaas
 
-LEARN • BUILD • IMPROVE • REPEAT
+### Aspiring Web Developer | AI Enthusiast | Future AI Engineer
 
-</div******
+---
+
+</div>
+
+# 🚀 About Me
+
+- 🎓 High School Graduate
+- 📍 Kuala Lumpur, Malaysia
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Learning Web Development & Software Engineering
+- 🚀 Building Projects Using Python, Java & JavaScript
+- 🎯 Goal: Become an AI Engineer & Freelance Developer
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ehsaas-405540414)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ehsaaskumar92@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://pilotek79.github.io/Ehsaas-portfolio/)
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge)
+
+---
+
+# 🤖 AI & Data Science
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-green?style=for-the-badge)
+
+![Claude](https://img.shields.io/badge/Claude-purple?style=for-the-badge)
+
+![Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge)
+
+![Perplexity](https://img.shields.io/badge/Perplexity-teal?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
+
+---
+
+# 🏆 Certifications
+
+✅ Stanford Online & DeepLearning.AI
+
+**Supervised Machine Learning: Regression and Classification**
+
+Instructor: Andrew Ng
+
+---
+
+# 📌 Featured Projects
+
+✈ Airline Reservation System
+
+🍽 Restaurant Website
+
+🏋 Gym Website
+
+🌐 Personal Portfolio
+
+---
+
+# 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=PILOTEK79&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PILOTEK79&layout=compact&theme=tokyonight)
