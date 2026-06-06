@@ -25,6 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ehsaas-405540414)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ehsaaskumar92@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://pilotek79.github.io/Ehsaas-portfolio/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01fe8107b655a37b2f)
 
 ---
 
