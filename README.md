@@ -1,8 +1,8 @@
-<div align="center">
+******<div align="center">
 
-🚀 EHSAAS
+🚀 **EHSAAS**
 
-AI Enthusiast • Web Developer • Student Developer • Future AI Engineer
+AI ENTHUSIAST • WEB DEVELOPER • STUDENT DEVELOPER • FUTURE AI ENGINEER
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Web+Developer;Python+Developer;Machine+Learning+Learner;Building+Projects+Every+Day;Future+AI+Engineer" />
 <br>
@@ -12,12 +12,12 @@ AI Enthusiast • Web Developer • Student Developer • Future AI Engineer
 
 🧠 ABOUT ME
 
-* 🎓 High School Graduate
-* 📍 Kuala Lumpur, Malaysia
-* 🤖 Passionate about Artificial Intelligence & Machine Learning
-* 💻 Learning Web Development and Software Engineering
-* 🚀 Building Projects Using Python, Java, JavaScript & AI Tools
-* 🎯 Goal: Become an AI Engineer & Freelance Developer
+* 🎓 HIGH SCHOOL GRADUATE
+* 📍 KUALA LUMPUR, MALAYSIA
+* 🤖 PASSIONATE ABOUT ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+* 💻 LEARNING WEB DEVELOPMENT & SOFTWARE ENGINEERING
+* 🚀 BUILDING PROJECTS USING PYTHON, JAVA, JAVASCRIPT & AI TOOLS
+* 🎯 GOAL: BECOME AN AI ENGINEER & FREELANCE DEVELOPER
 
 ⸻
 
@@ -27,37 +27,37 @@ AI Enthusiast • Web Developer • Student Developer • Future AI Engineer
 
 💻 TECH STACK
 
+⸻
 
-
-🤖 AI & DATA ANALYSIS
+🤖 AI, ML & DATA ANALYSIS
 
 ⸻
 
 🏆 CERTIFICATIONS
 
-Stanford Online & DeepLearning.AI
+STANFORD ONLINE & DEEPLEARNING.AI
 
-✅ Supervised Machine Learning: Regression and Classification
+✅ SUPERVISED MACHINE LEARNING: REGRESSION AND CLASSIFICATION
 
-👨‍🏫 Instructor: Andrew Ng
+👨‍🏫 INSTRUCTOR: ANDREW NG
 
 ⸻
 
 🚀 FEATURED PROJECTS
 
-✈ Airline Reservation System
+✈ AIRLINE RESERVATION SYSTEM
 
-Python + MySQL Airline Booking Project
+PYTHON + MYSQL AIRLINE BOOKING PROJECT
 
-🍽 Restaurant Website
+🍽 RESTAURANT WEBSITE
 
-Modern Responsive Restaurant Website
+MODERN RESPONSIVE RESTAURANT WEBSITE
 
-🏋 Gym Business Website
+🏋 GYM BUSINESS WEBSITE
 
-Professional Fitness Business Website
+PROFESSIONAL FITNESS BUSINESS WEBSITE
 
-🌐 Personal Portfolio
+🌐 PERSONAL PORTFOLIO
 
 https://pilotek79.github.io/Ehsaas-portfolio/
 
@@ -79,6 +79,6 @@ https://pilotek79.github.io/Ehsaas-portfolio/
 
 🌟 BUILDING THE FUTURE WITH AI & CODE 🌟
 
-“Learn • Build • Improve • Repeat”
+LEARN • BUILD • IMPROVE • REPEAT
 
-</div
+</div******
