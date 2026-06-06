@@ -1,33 +1,46 @@
-}
-
 <h1 align="center">Hi 👋, I'm Ehsaas</h1>
-<h3 align="center">Aspiring Web Developer & AI Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Web Developer | AI Enthusiast | Student Developer</h3>
 <p align="center">
-📍 Kuala Lumpur, Malaysia
+  <a href="https://pilotek79.github.io/Ehsaas-portfolio/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ehsaas-405540414">💼 LinkedIn</a> •
+  <a href="https://github.com/PILOTEK79">💻 GitHub</a>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;AI+Enthusiast;Python+Developer;Machine+Learning+Learner;Building+Cool+Projects" />
 </p>
 
 ⸻
 
 🚀 About Me
 
-* 🌱 Learning AI, Machine Learning & Web Development
-* 💻 Building projects using Python, Java & JavaScript
-* 🎯 Future AI Engineer & Freelance Developer
-* 🏆 Stanford Online & DeepLearning.AI Certified
+* 🎓 High School Graduate
+* 📍 Kuala Lumpur, Malaysia
+* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* 💻 Learning Web Development and Software Engineering
+* 🚀 Building projects using Python, Java and JavaScript
+* 🎯 Goal: Become an AI Engineer & Freelance Developer
 
 ⸻
 
-🛠 Skills
+🌐 Connect With Me
 
-* Python
-* Java
-* JavaScript
-* Git & GitHub
-* Data Analysis
-* Excel
-* ChatGPT
-* Claude
-* Gemini
+⸻
+
+💻 Tech Stack
+
+⸻
+
+🤖 AI & Data Analysis
+
+⸻
+
+🏆 Certifications
+
+Stanford Online & DeepLearning.AI
+
+✅ Supervised Machine Learning: Regression and Classification
+
+Instructor: Andrew Ng
 
 ⸻
 
@@ -35,25 +48,24 @@
 
 ✈ Airline Reservation System
 
+Python + MySQL Airline Booking System
+
 🍽 Restaurant Website
+
+Modern Responsive Restaurant Website
 
 🏋 Gym Business Website
 
+Professional Fitness Business Website
+
 🌐 Personal Portfolio
 
-Portfolio:
 https://pilotek79.github.io/Ehsaas-portfolio/
 
 ⸻
 
-🌎 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/ehsaas-405540414
-
-GitHub:
-https://github.com/PILOTEK79
+📊 GitHub Stats
 
 ⸻
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PILOTEK79&layout=compact&theme=tokyonight
+⭐ Thanks for visiting my profile!
