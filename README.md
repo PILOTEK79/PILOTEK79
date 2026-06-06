@@ -20,13 +20,10 @@
 - 🎯 Goal: Become an AI Engineer & Freelance Developer
 
 ---
-
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ehsaas-405540414)
-
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ehsaaskumar92@gmail.com)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://pilotek79.github.io/Ehsaas-portfolio/)
 
 ---
@@ -34,37 +31,24 @@
 # 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
-
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge)
 
 ---
 
 # 🤖 AI & Data Science
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-green?style=for-the-badge)
-
-![Claude](https://img.shields.io/badge/Claude-purple?style=for-the-badge)
-
-![Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge)
-
-![Perplexity](https://img.shields.io/badge/Perplexity-teal?style=for-the-badge)
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-7B68EE?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-00A67E?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
-
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
 
 ---
