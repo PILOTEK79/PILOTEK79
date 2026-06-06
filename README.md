@@ -4,6 +4,8 @@
 
 ### Aspiring Web Developer | AI Enthusiast | Future AI Engineer
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Web+Developer;Python+Developer;Machine+Learning+Learner;Building+Projects+Every+Day;Future+AI+Engineer" />
+
 ---
 
 </div>
