@@ -52,13 +52,13 @@
 
 ---
 
-# 🏆 Certifications
+# 🏆 CERTIFICATIONS
 
-✅ Stanford Online & DeepLearning.AI
+[![Stanford ML Certificate](https://img.shields.io/badge/Stanford%20ML-Certificate-blue?style=for-the-badge)](https://coursera.org/verify/SEQMIKTC3L7J)
 
-**Supervised Machine Learning: Regression and Classification**
-
-Instructor: Andrew Ng
+**Supervised Machine Learning: Regression and Classification**  
+**DeepLearning.AI + Stanford Online**  
+**Instructor: Andrew Ng**
 
 ---
 
