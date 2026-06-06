@@ -71,12 +71,6 @@ Instructor: Andrew Ng
 
 🏋 Gym Website
 
-🌐 Personal Portfolio
+🌐 Personal Portfolio 
 
----
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=PILOTEK79&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PILOTEK79&layout=compact&theme=tokyonight)
+https://pilotek79.github.io/Ehsaas-portfolio/index.html
