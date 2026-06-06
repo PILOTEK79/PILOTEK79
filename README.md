@@ -1,4 +1,4 @@
-****<div align="center">
+<div align="center">
 
 🚀 EHSAAS
 
@@ -16,7 +16,7 @@ AI Enthusiast • Web Developer • Student Developer • Future AI Engineer
 * 📍 Kuala Lumpur, Malaysia
 * 🤖 Passionate about Artificial Intelligence & Machine Learning
 * 💻 Learning Web Development and Software Engineering
-* 🚀 Building projects using Python, Java, JavaScript & AI Tools
+* 🚀 Building Projects Using Python, Java, JavaScript & AI Tools
 * 🎯 Goal: Become an AI Engineer & Freelance Developer
 
 ⸻
@@ -27,7 +27,7 @@ AI Enthusiast • Web Developer • Student Developer • Future AI Engineer
 
 💻 TECH STACK
 
-⸻
+
 
 🤖 AI & DATA ANALYSIS
 
@@ -47,20 +47,29 @@ Stanford Online & DeepLearning.AI
 
 ✈ Airline Reservation System
 
-Python + MySQL airline booking project.
+Python + MySQL Airline Booking Project
 
 🍽 Restaurant Website
 
-Modern responsive restaurant website.
+Modern Responsive Restaurant Website
 
 🏋 Gym Business Website
 
-Professional fitness business website.
+Professional Fitness Business Website
 
 🌐 Personal Portfolio
 
 https://pilotek79.github.io/Ehsaas-portfolio/
 
+⸻
+
+📊 GITHUB ANALYTICS
+
+⸻
+
+🏆 GITHUB TROPHIES
+
+⸻
 
 📈 CONTRIBUTION GRAPH
 
@@ -70,4 +79,6 @@ https://pilotek79.github.io/Ehsaas-portfolio/
 
 🌟 BUILDING THE FUTURE WITH AI & CODE 🌟
 
-</div****
+“Learn • Build • Improve • Repeat”
+
+</div
