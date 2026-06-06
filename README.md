@@ -70,7 +70,3 @@ Instructor: Andrew Ng
 🍽 Restaurant Website
 
 🏋 Gym Website
-
-🌐 Personal Portfolio 
-
-https://pilotek79.github.io/Ehsaas-portfolio/index.html
