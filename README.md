@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi!, I'm Ehsaas
+# Hi, I'm Ehsaas
 
 ### Aspiring Web Developer | AI Enthusiast | Future AI Engineer
 
