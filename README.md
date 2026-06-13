@@ -70,3 +70,5 @@
 🍽 Restaurant Website
 
 🏋 Gym Website
+
+🌐 AI CV Updater Website
