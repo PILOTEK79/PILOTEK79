@@ -72,3 +72,5 @@
 🏋 Gym Website
 
 🌐 AI CV Updater Website
+
+🪐  Galaxy Forge
