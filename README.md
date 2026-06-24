@@ -57,8 +57,8 @@
 | Year | Award |
 |------|--------|
 | 2025 | 🥈 2nd Place — Genesis Grid 2025 Hackathon |
-| 2024 | 🥇 1st Place — Genesis Grid 2024 Hackathon |
-| 2024 | 🥈 2nd Place — MIMUN 2024 (DPS MIHAN) |
+| 2024 | 🥉 3rd Place — Genesis Grid 2024 Hackathon |
+| 2024 | 🥉 3rd Place — MIMUN 2024 (DPS MIHAN) |
 
 ## Highlights
 - Achieved back-to-back podium finishes in the annual Genesis Grid Hackathon across two consecutive years.
