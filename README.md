@@ -52,13 +52,15 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
 
 ---
-## 🏆 Awards & Achievements
+# 🏆 Awards & Achievements
 
-- 🥇 **1st Place** — Genesis Grid 2024 Hackathon (Class 11)
-- 🥈 **2nd Place** — Genesis Grid 2025 Hackathon (Class 12)
-- 🥈 **2nd Place** — MIMUN 2024, organized by DPS MIHAN
+| Year | Award |
+|------|--------|
+| 2025 | 🥈 2nd Place — Genesis Grid 2025 Hackathon |
+| 2024 | 🥇 1st Place — Genesis Grid 2024 Hackathon |
+| 2024 | 🥈 2nd Place — MIMUN 2024 (DPS MIHAN) |
 
-### Highlights
+## Highlights
 - Achieved back-to-back podium finishes in the annual Genesis Grid Hackathon across two consecutive years.
 - Recognized for excellence in both technology competitions and Model United Nations conferences.
 
