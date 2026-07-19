@@ -48,6 +48,7 @@
 ![Claude](https://img.shields.io/badge/Claude-7B68EE?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-00A67E?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
 
