@@ -72,9 +72,6 @@
 
 <div align="center">
 
-<img height="180em"
-src="https://streak-stats.demolab.com?user=PILOTEK79&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PILOTEK79&theme=tokyonight"/>
 
 </div>
