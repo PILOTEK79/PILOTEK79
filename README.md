@@ -6,7 +6,7 @@
 
 ### Bachelor of Science (Honours) Computer Science (Artificial Intelligence)
 
-### AI Enthusiast • Web Developer • Future AI Engineer • Aerospace Eng. Enthusiast 
+### AI Enthusiast • Web Developer • Future AI Engineer • Aerospace Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Building+Projects+Every+Day;Future+AI+Engineer;Always+Learning+Something+New" />
 
